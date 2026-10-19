@@ -1,3 +1,4 @@
 # [Tytuł projektu]
 Autor: Dawid Ludka
-Laboratorium informatyki 2026/27
+Laboratorium informatyki 2026/27 
+lubie placki
